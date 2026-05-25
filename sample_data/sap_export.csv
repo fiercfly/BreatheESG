@@ -1,0 +1,8 @@
+BUKRS;WERKS;BUDAT;MENGE;MEINS;WRBTR;WAERS;SGTXT
+1000;DE01;01.04.2026;1500.00;L;1850.00;EUR;Heizoel fuer Notstromaggregat
+1000;DE01;15.04.2026;2450.00;M3;3100.00;EUR;Erdgas fuer Fabrikhalle
+1000;US02;18.04.2026;500.00;GAL;750.00;USD;Diesel fuel for backup generators
+1000;IN03;20.04.2026;10.00;T;45000.00;INR;LPG cylinder supply
+1000;DE01;02.05.2026;1650.00;L;2050.00;EUR;Heizoel fuer Notstromaggregat
+1000;US02;12.05.2026;12000.00;GAL;18000.00;USD;High-volume diesel procurement (Suspicious Outlier)
+1000;IN03;15.05.2026;1.50;T;7200.00;INR;LPG cylinder supply

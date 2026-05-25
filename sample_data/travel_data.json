@@ -1,0 +1,84 @@
+[
+  {
+    "trip_id": "T-1001",
+    "passenger_name": "Alice Smith",
+    "type": "Flight",
+    "date": "2026-04-05",
+    "details": {
+      "departure_airport": "SFO",
+      "arrival_airport": "JFK",
+      "booking_class": "Business",
+      "distance_miles": null
+    }
+  },
+  {
+    "trip_id": "T-1002",
+    "passenger_name": "Bob Jones",
+    "type": "Flight",
+    "date": "2026-04-10",
+    "details": {
+      "departure_airport": "LHR",
+      "arrival_airport": "CDG",
+      "booking_class": "Economy",
+      "distance_miles": 216
+    }
+  },
+  {
+    "trip_id": "T-1003",
+    "passenger_name": "Alice Smith",
+    "type": "Hotel",
+    "date": "2026-04-06",
+    "details": {
+      "hotel_name": "Grand Hyatt New York",
+      "location": "USA",
+      "nights": 4,
+      "rooms": 1
+    }
+  },
+  {
+    "trip_id": "T-1004",
+    "passenger_name": "Charlie Brown",
+    "type": "CarRental",
+    "date": "2026-04-15",
+    "details": {
+      "vehicle_class": "SUV",
+      "fuel_type": "Gasoline",
+      "distance_miles": 350.00
+    }
+  },
+  {
+    "trip_id": "T-1005",
+    "passenger_name": "Bob Jones",
+    "type": "CarRental",
+    "date": "2026-04-12",
+    "details": {
+      "vehicle_class": "Compact",
+      "fuel_type": "Electric",
+      "distance_miles": 120.00
+    }
+  },
+  {
+    "trip_id": "T-1006",
+    "passenger_name": "David Miller",
+    "type": "Flight",
+    "date": "2026-05-02",
+    "details": {
+      "departure_airport": "LAX",
+      "arrival_airport": "SYD",
+      "booking_class": "First",
+      "distance_miles": null
+    }
+  },
+  {
+    "trip_id": "T-1007",
+    "passenger_name": "David Miller",
+    "type": "Hotel",
+    "date": "2026-05-03",
+    "details": {
+      "hotel_name": "Sherman Sydney",
+      "location": "AUS",
+      "nights": 14,
+      "rooms": 1
+    }
+  }
+]
